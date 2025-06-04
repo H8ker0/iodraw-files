@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nFtjDD5dIKOxqtQgQRn5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnl-VS92njhkQZry2QIr-2" target="nFtjDD5dIKOxqtQgQRn5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nnl-VS92njhkQZry2QIr-2" value="More Factors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="155" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nFtjDD5dIKOxqtQgQRn5-1" value="Restricted Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="90" height="35" as="geometry" />
+        <mxCell id="nFtjDD5dIKOxqtQgQRn5-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
