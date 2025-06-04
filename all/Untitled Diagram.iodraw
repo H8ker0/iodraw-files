@@ -10,7 +10,7 @@
         <mxCell id="nnl-VS92njhkQZry2QIr-2" value="More Factors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nFtjDD5dIKOxqtQgQRn5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nFtjDD5dIKOxqtQgQRn5-1" value="Restricted Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
