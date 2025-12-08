@@ -13,8 +13,8 @@
         <mxCell id="ZtXMD9YXBj-NwoQhiuEJ-2" value="Option Metrics&lt;br style=&quot;font-size: 11px;&quot;&gt;股指期权日度交易数据" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZtXMD9YXBj-NwoQhiuEJ-3" value="" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="ZtXMD9YXBj-NwoQhiuEJ-3" value="基本数据：" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
