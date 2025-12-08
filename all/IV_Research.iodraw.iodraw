@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZtXMD9YXBj-NwoQhiuEJ-1" value="主要目标：利用每支股票期权的交易数据来对股票收益率进行预测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ZtXMD9YXBj-NwoQhiuEJ-1" value="主要目标：利用每支股票期权的交易数据来对股票收益率进行预测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="30" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtXMD9YXBj-NwoQhiuEJ-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
